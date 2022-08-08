@@ -1,0 +1,35 @@
+.login__bg {
+    background-image: url(../Data/BackgroundImg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.newuser {
+    padding-top: 10px;
+    font-size: small;
+}
+
+.newsign {
+    text-decoration: none;
+}
+
+.asideclass {
+    color: red;
+    font-size: small;
+}
+
+.googleimg {
+    height:30px;
+    width: 30px;
+}
+
+.btnclass {
+     border: 1px black;
+}
+
+.para {
+    padding-top: 10px;
+    padding-left: 25px;
+}
