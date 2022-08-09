@@ -11,7 +11,7 @@ export const View = ({events,deleteEvent}) => {
             <td>{event.title}</td>
             <td>{event.organizer}</td>
             <td className='delete-btn' onClick={()=>deleteEvent(event.isbn)}>
-                <Icon icon={trash}/>
+             <Icon icon={trash}/>
             </td>           
         </tr>            
     

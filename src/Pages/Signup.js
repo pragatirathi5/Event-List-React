@@ -69,7 +69,6 @@ const Signup = () => {
             <Button variant="primary" type="submit" style={{backgroundColor: "white", color: "black"}} className="btnclass" onClick={googleAuth}><img src={Google} className="googleimg" />Login with Google</Button>
             <div className='newuser'>
             <p>Already a User ? <Link to="/Login" className='newsign'>Login</Link></p>
-
             </div>
          </Form>
         </Col>
